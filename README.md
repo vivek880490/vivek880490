@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently B.tech student.
 - 🌱 I’m currently learning more about React.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @vivek-kumar](https://linkedin.com/in/vivek-kumar-75672518a)
 - 😄 Pronouns: He/His
 <!-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.-->
