@@ -13,23 +13,19 @@
 <br/>
 
 
-- 🔭 I’m currently B.tech student.
-- 🌱 I’m currently learning more about React.
+- 🔭 I’m currently Pursuing B.tech in CSE.
+- 🌱 I’m currently learning   DSA,Java,JS,React.
 - 📫 How to reach me: [LinkedIn - @vivek-kumar](https://linkedin.com/in/vivek-kumar-75672518a)
-- 😄 Pronouns: He/His
-<!-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.-->
-
 
 [![Linkedin: vivek kumar](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vivek-kumar-75672518a)](https://linkedin.com/in/vivek-kumar-75672518a)
 [![GitHub vivek](https://img.shields.io/github/followers/vivek880490?label=follow&style=social)](https://github.com/vivek880490)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/vivek880490">
